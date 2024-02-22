@@ -157,7 +157,7 @@ const Navbar = ({children,setShow,setShow1,setImg}) => {
       <Menu />
      </IconButton>}
      <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-        RMG STORE
+        RMG STOREs
      </Typography>
      <Button color="inherit" onClick={HandleClick}>Sign Out</Button>
     </Toolbar>
